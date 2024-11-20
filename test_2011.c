@@ -56,7 +56,6 @@ int main()
     int l = caun.dong4*k;
     printf("\n tong= %d",c);
     printf("\n cau may %d \n",l);
-
     
     // printf("huhhhhh số thứ nhất: %d \n", so1);
     // printf("huhhhhh số thứ hai:  %d \n", so2);
